@@ -3,7 +3,7 @@ nav {
   color: #3a3a3a; /* Text color */
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  font-size: 19px;
+  font-size: 20px;
   display: flex;
   justify-content: flex-end;
 }
@@ -28,5 +28,13 @@ a {
 .name {
   margin-right: auto;    /*pushes the name to the left*/
   font-weight:bold;
-  font-size: 19px;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: Nunito, sans-serif;
+}
+
+h3 {
+  font-family: Nunito, sans-serif;
 }
