@@ -1,12 +1,4 @@
-nav {
-  background-color: #33333300;
-  color: #3a3a3a;
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: bold;
-  font-size: 20px;
-  display: flex;
-  justify-content: flex-end;
-}
+
 
 ul {
   list-style: none;
@@ -36,7 +28,5 @@ h3 {
 }
 
 h2 {
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: bold;
-  color: black;
+  font-family: Nunito, sans-serif;
 }
